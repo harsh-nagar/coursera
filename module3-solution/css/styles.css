@@ -1,0 +1,41 @@
+.body{
+    font-family: sans-serif;
+}
+.menuheight{
+    height:800px;
+}
+/*.navbar-collapse{
+    background-color: white;
+}*/
+
+
+li{
+    border-bottom: 1px solid white;
+}
+.nav-link{
+    font-weight: 700;
+    color: white !important;
+
+}
+.nav-link:hover{
+    background-color: cornflowerblue;
+    opacity: 0.8;
+}
+
+#section3{
+    border:2px solid black;
+    background-color: lightseagreen;
+    color: white;
+}
+
+#section1{
+    border:2px solid black;
+    background-color: dodgerblue;
+    color: white;
+}
+
+#section2{
+    border:2px solid black;
+    background-color: steelblue;
+    color: white;
+}
